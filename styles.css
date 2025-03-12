@@ -1,0 +1,29 @@
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    font-weight: 900;
+    text-align: center;
+    background-color: chocolate;
+    margin-bottom: 10px;
+}
+
+.subheading{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: coral;
+    margin-bottom: 30px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+body{
+    background-color: rgb(140, 221, 174);
+}
+
+.recipe{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+    font-weight: 900;
+    padding: 30px;
+
+}
